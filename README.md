@@ -1,2 +1,2 @@
-# Web-Project-SWE363
-This is repository for project in SWE 363 
+# Web-Game
+This is repository for Web Game 
